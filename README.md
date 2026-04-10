@@ -24,8 +24,10 @@ metodo: GET
 - Body raw json:
 - 
 {
-    "nombre": "Dr. Carlos Ruiz",
-    "correo": "carlos.ruiz@universidad.edu",
+  "nombre": "Dr. Carlos Ruiz",
+
+  "correo": "carlos.ruiz@universidad.edu",
+  
     "especialidad": "Arquitectura de Software"
 }
 
